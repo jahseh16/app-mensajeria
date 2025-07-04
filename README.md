@@ -31,11 +31,11 @@ messaging-app
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/jahseh16/app-mensajeria
    ```
 2. Navigate to the project directory:
    ```
-   cd messaging-app
+   cd app-mensajeria
    ```
 3. Install the dependencies:
    ```
